@@ -163,4 +163,4 @@ This assignment demonstrates:
 - Real-world application of design patterns in library systems
 
 ## UML Diagram
-![alt text](https://github.com/ramdcrz/solidWithDesignPatern/blob/main/solidWithDesignPatern_UML.png)
+![alt text](https://github.com/ramdcrz/solidWithDesignPattern/blob/main/solidWithDesignPattern_UML.png)
